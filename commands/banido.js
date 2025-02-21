@@ -1,3 +1,4 @@
+const { teste } = "";
 module.exports = {
     name: 'teste',
     description: "Bane membros malvados do servidor!",
